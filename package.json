@@ -1,0 +1,15 @@
+{
+  "name": "creational-methods",
+  "description": "A TypeScript module for creational design patterns (Builder Method, With, Auto Setters and Getters)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Ziane Zakaria",
+    "email": "zakariaziane@hotmail.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
