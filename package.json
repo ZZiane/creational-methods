@@ -7,9 +7,20 @@
     "name": "Ziane Zakaria",
     "email": "zakariaziane@hotmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZZiane/creational-methods.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "encapsulation",
+    "OOP",
+    "typescript",
+    "lombok",
+    "runtime",
+    "optimisation"
+  ],
   "license": "MIT"
 }
