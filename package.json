@@ -1,7 +1,7 @@
 {
   "name": "creational-methods",
   "description": "A TypeScript module for creational design patterns (Builder Method, With, Auto Setters and Getters)",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "author": {
     "name": "Ziane Zakaria",
